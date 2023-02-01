@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    background-image: url("passgen.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Itim', cursive;
+}
+.new{
+    color: #10B981;
+}
+.d1{
+    background-color: #354F52;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    margin:30px auto;
+    height: 500px;
+    width: 450px;
+    border-radius: 10%;
+}
+.d2{
+    margin-top: 30px;
+    height: 25px;
+    width: 170px;
+    background-color: #273549;
+    margin-right: 20px;
+    border-radius: 4%;
+    text-align: center;
+    padding-top: 10px;
+    color: #10B981;
+    font-weight: bold;
+    font-size: 13px;
+}
+.display{
+    display: flex;
+    
+}
+.btn{
+    padding: 10px 14px;
+    color: white;
+    background-color: #10B981;
+    border: none;
+    border-radius: 4%;
+    font-size: 14px;
+    margin-bottom: 10px;
+    margin-right: 65px;
+    font-family: 'Itim', cursive;
+}
+.h-1{
+    color: white;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+.h-2{
+    margin-top: 0;
+    color: #10B981;
+    font-weight: bold;
+}
+.para1{
+    margin-top: 0px;
+    margin-bottom: 60px;
+    color: white;
+}
+.newhr{
+    border: 1px solid white;
+    width: 430px;
+    margin-left: 0px;
+    margin-top: 40px;
+}
+.button{
+    display: flex;
+    align-items: start;
+}
